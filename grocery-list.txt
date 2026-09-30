@@ -2,3 +2,5 @@ Milk
 Eggs
 Rice
 Chicken
+orange juice
+bannana
