@@ -4,3 +4,5 @@ Rice
 Chicken
 orange juice
 bannana
+pears 
+Cherries
