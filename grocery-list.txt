@@ -7,3 +7,5 @@ bannana
 pears 
 Cherries
 tomatooo
+meat 
+olives
